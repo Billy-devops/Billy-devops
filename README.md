@@ -3,6 +3,8 @@
 Full DevOps Engineer with strong focus on Azure, Linux, Terraform, Kubernetes, CI/CD, and DevSecOps.
 
 I build scalable infrastructure, automate operations, and deliver production-ready cloud solutions with a focus on reliability, security, and performance.
+portfolio link: https://unusual-sawfish-ig18a.ship.place/
+
 
 ## 🌐 Portfolio
 
