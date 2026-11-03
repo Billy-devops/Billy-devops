@@ -212,15 +212,17 @@ Security-first CI/CD — SAST, container scanning, artifact signing, and complia
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy-devops&theme=2077" width="100%"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy-devops&theme=2077" width="100%"/> -->
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Billy-devops&theme=2077" width="32%"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Billy-devops&theme=2077" width="32%"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Billy-devops&theme=2077" width="32%"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Billy-devops&theme=2077" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Billy-devops&theme=2077" width="32%"/> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billy-devops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=8892b0" width="48%"/>
 
 <br/>
 
@@ -230,7 +232,7 @@ Security-first CI/CD — SAST, container scanning, artifact signing, and complia
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Billy-devops&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Billy-devops&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/> -->
 
 </div>
 
