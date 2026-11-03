@@ -224,11 +224,13 @@ Security-first CI/CD — SAST, container scanning, artifact signing, and complia
 
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=Billy-devops&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=6d28d9&dates=6d28d9&stroke=7c3aed" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Billy-devops&theme=tokyonight-duo&hide_border=true&border_radius=8&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" width="55%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Billy-devops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=c084fc&text_color=8892b0&count_private=true" width="42%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Billy-devops&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Billy-devops&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
 
 </div>
 
@@ -238,10 +240,16 @@ Security-first CI/CD — SAST, container scanning, artifact signing, and complia
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Billy-devops&theme=tokyo-night&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=a78bfa&hide_border=true&custom_title=Shivam%27s+Contribution+Graph" width="100%"/>
+
+<br/>
+
+<!-- Snake animation — auto-generated every 12h via GitHub Actions -->
+<!-- To activate: Go to Actions tab → "Generate Contribution Snake" → Run workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'"/>
 </picture>
 
 </div>
