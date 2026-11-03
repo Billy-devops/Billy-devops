@@ -1,0 +1,39 @@
+name: 🌐 Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Runs daily at 18:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 10
+          SETTING_JSON: |
+            {
+              "githubUserName": "${{ github.repository_owner }}",
+              "title": "Shivam Prajapati — DevSecOps & AI",
+              "topLangType": "REPO_WITH_COMMITS",
+              "topLangColor": "#00d4ff",
+              "type": "NORMAL",
+              "theme": "NIGHT"
+            }
+
+      - name: Push to repository
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git commit -m "🌐 Auto-update 3D contribution graph" || echo "No changes to commit"
+          git push
