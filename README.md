@@ -11,9 +11,9 @@
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Billy-devops&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=1e1b4b)](https://github.com/Billy-devops)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/billy-devops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/shivam-prajapati011)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-a78bfa?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=1e1b4b)](https://unusual-sawfish-ig18a.ship.place/)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Elite%20Roles-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://www.linkedin.com/in/billy-devops)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Elite%20Roles-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://www.linkedin.com/in/shivam-prajapati011)
 
 </div>
 
@@ -21,31 +21,30 @@
 
 ## ⚡ `neofetch --user shivam`
 
-```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║    ███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗         ║
-║    ██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║         ║
-║    ███████╗███████║██║██║   ██║███████║██╔████╔██║         ║
-║    ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╔╝██║         ║
-║    ███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║         ║
-║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝         ║
+║    ███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗           ║
+║    ██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║           ║
+║    ███████╗███████║██║██║   ██║███████║██╔████╔██║           ║
+║    ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╔╝██║           ║
+║    ███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║           ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝           ║
 ║                                                              ║
 ║  shivam@universe ~ $ cat profile.json                        ║
-║  ┌──────────────────────────────────────────────────────┐   ║
-║  │  Name        :  Shivam Prajapati                     │   ║
-║  │  Role        :  DevSecOps Engineer                   │   ║
-║  │  OS          :  Linux (always)                       │   ║
-║  │  Shell       :  bash / zsh                           │   ║
-║  │  Uptime      :  3+ Years in Production               │   ║
-║  │  Cloud       :  Azure ★ AWS ★ GCP                    │   ║
-║  │  Superpower  :  AI-Powered Security Automation       │   ║
-║  │  Status      :  Building things that don't break     │   ║
-║  │  Open to     :  Senior / Lead / Staff roles          │   ║
-║  └──────────────────────────────────────────────────────┘   ║
+║  ┌──────────────────────────────────────────────────────┐    ║
+║  │  Name        :  Shivam Prajapati                     │    ║
+║  │  Role        :  DevSecOps & AI Infra Engineer        │    ║
+║  │  OS          :  Linux (Ubuntu / RHEL)                │    ║
+║  │  Shell       :  bash / zsh                           │    ║
+║  │  Uptime      :  3+ Years in Production               │    ║
+║  │  Cloud       :  Microsoft Azure                      │    ║
+║  │  Superpower  :  AI-Powered Security & Fast Pipelines │    ║
+║  │  Status      :  Building Zero-Lag Infra              │    ║
+║  │  Open to     :  Senior / Staff / Lead Roles          │    ║
+║  └──────────────────────────────────────────────────────┘    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+
 
 ---
 
@@ -57,7 +56,7 @@
 |:---:|:---|:---|
 | 🔐 | Your pipeline ships code. Nobody knows if it's secure. | I build security gates that **auto-block vulnerabilities** before merge — SAST, DAST, SCA, secret scanning, image hardening, all wired in. |
 | 🤖 | Security teams are overwhelmed. Alerts are ignored. | I deploy **AI agents** that triage CVEs, score severity, and open fix PRs — autonomously, 24/7, while humans sleep. |
-| ☁️ | Multi-cloud infra is complex and one misconfiguration away from a breach. | I architect **Zero Trust environments** on Azure/AWS/GCP with IaC, policy-as-code, and automated compliance built in — not bolted on. |
+| ☁️ | Multi-cloud infra is complex and one misconfiguration away from a breach. | I architect **Zero Trust environments** on Azure with IaC, policy-as-code, and automated compliance built in — not bolted on. |
 | 🧠 | Your team forgets runbooks. Incidents take hours to triage. | I build **RAG pipelines** that give your AI models live access to your entire knowledge base — instant expert-level answers, every time. |
 
 </div>
@@ -76,7 +75,7 @@
 ### 🧠 RAG — Retrieval Augmented Generation
 **What I build:** Pipelines that ingest CVE feeds, MITRE ATT&CK, NIST frameworks, and internal runbooks into a vector store (FAISS / ChromaDB), then answer *"Is my stack vulnerable to this CVE?"* in real time — before your morning standup.
 
-**Stack:** `LangChain` · `FAISS` · `ChromaDB` · `OpenAI` · `Ollama (local LLMs)`
+**Stack:** `LangChain` · `FAISS` · `ChromaDB` · `OpenAI` · `Ollama`
 
 </td>
 <td width="50%" valign="top">
@@ -208,29 +207,13 @@ Security-first CI/CD — SAST, container scanning, artifact signing, and complia
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Metrics & Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy-devops&theme=2077" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Billy-devops&theme=2077" width="32%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Billy-devops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=c084fc&text_color=8892b0&count_private=true" width="48%"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Billy-devops&theme=2077" width="32%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Billy-devops&theme=2077" width="32%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Billy-devops&theme=tokyonight-duo&hide_border=true&border_radius=8&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" width="55%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Billy-devops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=c084fc&text_color=8892b0&count_private=true" width="42%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Billy-devops&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Billy-devops&theme=tokyonight-duo&hide_border=true&border_radius=8&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" width="48%"/>
 
 </div>
 
@@ -244,12 +227,10 @@ Security-first CI/CD — SAST, container scanning, artifact signing, and complia
 
 <br/>
 
-<!-- Snake animation — auto-generated every 12h via GitHub Actions -->
-<!-- To activate: Go to Actions tab → "Generate Contribution Snake" → Run workflow -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg" onerror="this.style.display='none'"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg" width="100%" onerror="this.style.display='none'"/>
 </picture>
 
 </div>
@@ -273,14 +254,14 @@ Security-first CI/CD — SAST, container scanning, artifact signing, and complia
 
 ---
 
-## 🤝 Let's Build Something Impossible
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-devops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-prajapati011)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://unusual-sawfish-ig18a.ship.place/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivam_._02)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamprajapati1633@gmail.com)
 
 <br/>
 
