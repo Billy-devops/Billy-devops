@@ -2,12 +2,14 @@ name: 🌐 Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # Runs daily at 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
   push:
     branches: [main]
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -33,9 +35,8 @@ jobs:
 
       - name: Push to repository
         run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add -A
           git commit -m "🌐 Auto-update 3D contribution graph" || echo "No changes to commit"
-          git push
-
+          git push origin main
