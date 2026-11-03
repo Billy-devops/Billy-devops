@@ -1,118 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=250&section=header&text=Shivam%20Prajapati&fontSize=70&fontColor=64ffda&animation=fadeIn&fontAlignY=45&stroke=64ffda&strokeWidth=2&desc=DevSecOps%20Engineer%20%E2%80%A2%20AI%20Security%20Architect%20%E2%80%A2%20Cloud%20Native&descSize=17&descColor=8892b0&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,30:7c3aed,60:8b5cf6,100:4c1d95&height=220&section=header&text=Shivam%20Prajapati&fontSize=72&fontColor=ede9fe&animation=fadeIn&fontAlignY=42&stroke=a78bfa&strokeWidth=1.5&desc=⚡%20DevSecOps%20Engineer%20·%20AI%20Security%20Architect%20·%20Cloud%20Native&descColor=c4b5fd&descSize=17&descAlignY=64" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=600&color=64FFDA&center=true&vCenter=true&width=750&lines=🔐+Securing+pipelines+so+devs+can+sleep+at+night;🤖+Building+AI+agents+that+hunt+vulnerabilities+24%2F7;☁️+Architecting+Zero+Trust+on+Azure+%7C+AWS+%7C+GCP;🧠+RAG+Pipelines+%7C+LLM+Agents+%7C+MCP+Servers;⚡+Shift-Left+Security+%7C+3%2B+Years+in+the+Trenches;🚀+Turning+Security+into+a+Competitive+Advantage" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=🔐+3+Years.+0+Breaches+on+my+watch.+That%27s+not+luck.;🤖+My+AI+agents+hunt+vulnerabilities+while+you+sleep.;☁️+I%27m+the+reason+your+cloud+doesn%27t+have+a+breach+story.;⚡+If+it%27s+not+scanned+and+signed+—+it+doesn%27t+ship.;🧠+RAG+·+LLM+Agents+·+MCP+·+I+speak+AI+fluently.;🛡️+Zero+Trust+Architecture+·+Built+from+scratch%2C+not+bolted+on.;🚀+I+don%27t+slow+down+pipelines.+I+make+them+bulletproof." alt="Typing SVG" /></a>
 
 <br/><br/>
 
-<a href="https://github.com/Billy-devops">
-<img src="https://komarev.com/ghpvc/?username=Billy-devops&style=flat-square&color=64ffda&label=👁️+Profile+Views" alt="views"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Billy-devops?style=flat-square&color=64ffda&labelColor=0d1117&label=Followers" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Elite%20Roles-64ffda?style=flat-square&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-DevSecOps%20%2B%20AI-bf5af2?style=flat-square&labelColor=0d1117" />
+[![Profile Views](https://komarev.com/ghpvc/?username=Billy-devops&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=1e1b4b)](https://github.com/Billy-devops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/billy-devops)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-a78bfa?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=1e1b4b)](https://unusual-sawfish-ig18a.ship.place/)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Elite%20Roles-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://www.linkedin.com/in/billy-devops)
 
 </div>
 
-<br/>
-
 ---
 
-## ▸ `whoami`
+## ⚡ `neofetch --user shivam`
 
-```bash
-┌──[shivam@universe]─[~]
-└─$ cat about.yaml
 ```
-
-```yaml
-identity:
-  name:         "Shivam Prajapati"
-  title:        "DevSecOps Engineer | AI Security Architect"
-  experience:   "3+ Years — and counting"
-  location:     "India 🇮🇳"
-  mission:      >
-    I don't just secure infrastructure.
-    I build self-healing, AI-powered security systems
-    that catch threats before humans even open their laptops.
-
-currently_building:
-  - "🤖  AI agents for autonomous vulnerability triage"
-  - "🧠  RAG pipelines that ingest CVE feeds + MITRE ATT&CK in real time"
-  - "🔗  MCP (Model Context Protocol) servers for Kubernetes & cloud APIs"
-  - "🛡️  Zero Trust architecture across multi-cloud environments"
-
-superpower: "Making security INVISIBLE to developers — it just works"
-
-open_to:
-  - "Senior DevSecOps / Platform Security Engineering roles"
-  - "Cloud Security Architecture consultancy"
-  - "AI × Security research collaborations"
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗         ║
+║    ██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║         ║
+║    ███████╗███████║██║██║   ██║███████║██╔████╔██║         ║
+║    ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╔╝██║         ║
+║    ███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║         ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝         ║
+║                                                              ║
+║  shivam@universe ~ $ cat profile.json                        ║
+║  ┌──────────────────────────────────────────────────────┐   ║
+║  │  Name        :  Shivam Prajapati                     │   ║
+║  │  Role        :  DevSecOps Engineer                   │   ║
+║  │  OS          :  Linux (always)                       │   ║
+║  │  Shell       :  bash / zsh                           │   ║
+║  │  Uptime      :  3+ Years in Production               │   ║
+║  │  Cloud       :  Azure ★ AWS ★ GCP                    │   ║
+║  │  Superpower  :  AI-Powered Security Automation       │   ║
+║  │  Status      :  Building things that don't break     │   ║
+║  │  Open to     :  Senior / Lead / Staff roles          │   ║
+║  └──────────────────────────────────────────────────────┘   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ▸ `cat ai_stack.md`
-
-> *"Everyone has AI on their website. I have AI watching my infrastructure."*
+## 🎯 What I Bring To Your Table
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║           THE AI × DEVSECOPS ENGINE — HOW IT WORKS              ║
- ╠══════════════════════════════════════════════════════════════════╣
- ║                                                                  ║
- ║   📥 INPUT LAYER              🧠 INTELLIGENCE LAYER             ║
- ║   ─────────────               ─────────────────────             ║
- ║   CVE Feeds                   LLM (GPT-4o / Llama 3)           ║
- ║   MITRE ATT&CK   ──────────►  RAG Pipeline (FAISS + LangChain)  ║
- ║   Audit Logs                  Threat Correlation Engine         ║
- ║   SIEM Alerts                 Autonomous AI Agents              ║
- ║                                                                  ║
- ║   ⚙️  ACTION LAYER            📊 OUTPUT LAYER                   ║
- ║   ─────────────               ─────────────                     ║
- ║   Auto-Triage        ──────►  Jira Tickets + Severity Score     ║
- ║   Auto-Remediation   ──────►  PR with Fix + Explanation         ║
- ║   Policy Generation  ──────►  OPA/Rego policies from plain text ║
- ║   Runbook Execution  ──────►  Incident resolved in < 2 minutes  ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
+| | The Problem | My Solution |
+|:---:|:---|:---|
+| 🔐 | Your pipeline ships code. Nobody knows if it's secure. | I build security gates that **auto-block vulnerabilities** before merge — SAST, DAST, SCA, secret scanning, image hardening, all wired in. |
+| 🤖 | Security teams are overwhelmed. Alerts are ignored. | I deploy **AI agents** that triage CVEs, score severity, and open fix PRs — autonomously, 24/7, while humans sleep. |
+| ☁️ | Multi-cloud infra is complex and one misconfiguration away from a breach. | I architect **Zero Trust environments** on Azure/AWS/GCP with IaC, policy-as-code, and automated compliance built in — not bolted on. |
+| 🧠 | Your team forgets runbooks. Incidents take hours to triage. | I build **RAG pipelines** that give your AI models live access to your entire knowledge base — instant expert-level answers, every time. |
 
 </div>
 
+---
+
+## 🤖 AI × Security — My Unfair Advantage
+
+> *The world has AI. I have AI that secures the world.*
+
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 RAG-Based Threat Intelligence
-Feed your security tools a **brain**. I build RAG pipelines that ingest:
-- NVD / CVE databases (real-time)
-- MITRE ATT&CK framework (all tactics, techniques)
-- Internal runbooks & post-mortems
+### 🧠 RAG — Retrieval Augmented Generation
+**What I build:** Pipelines that ingest CVE feeds, MITRE ATT&CK, NIST frameworks, and internal runbooks into a vector store (FAISS / ChromaDB), then answer *"Is my stack vulnerable to this CVE?"* in real time — before your morning standup.
 
-So when a new CVE drops, AI **already knows** if your stack is affected — before your team's morning standup.
+**Stack:** `LangChain` · `FAISS` · `ChromaDB` · `OpenAI` · `Ollama (local LLMs)`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Autonomous Security Agents
-Multi-agent systems where each agent has ONE job and does it perfectly:
-- **Scout Agent** — hunts hardcoded secrets, misconfigs, insecure patterns
-- **Triage Agent** — scores severity, maps to CVSS, links to CWE
-- **Fix Agent** — opens a PR with the actual remediation code
-- **Comms Agent** — notifies the right person, not everyone
+**What I build:** Multi-agent systems where each agent owns one mission:
+- 🕵️ **Scout** — hunts secrets, misconfigs, OWASP issues
+- 🏷️ **Triage** — CVSS scoring, CWE mapping, priority ranking
+- 🔧 **Fix** — opens a PR with the actual remediation
+- 📢 **Comms** — pings the right person, not everyone
+
+**Stack:** `LangGraph` · `AutoGen` · `CrewAI` · `GitHub API`
 
 </td>
 </tr>
@@ -120,244 +96,187 @@ Multi-agent systems where each agent has ONE job and does it perfectly:
 <td width="50%" valign="top">
 
 ### 🔗 MCP (Model Context Protocol) Servers
-The next frontier. I build MCP servers that give AI models **live access** to:
-- Kubernetes cluster state & security events
-- Cloud provider APIs (Azure / AWS / GCP)
-- Vulnerability scanners (Trivy, Grype, Snyk)
-- CI/CD pipeline status & gate results
+**What I build:** Custom MCP servers that give LLMs **live, safe access** to:
+- Kubernetes cluster health + security events
+- Cloud provider APIs (Azure Resource Manager, AWS SDK)
+- Vulnerability scanners (Trivy, Grype, Checkov)
+- CI/CD pipeline state and gate results
+
+**Stack:** `Python` · `MCP SDK` · `kubectl` · `Azure SDK`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 AI-Powered Policy Engineering
-Natural language → enforced security policy. Instantly.
-- Describe a policy in plain English
-- LLM generates OPA/Rego or Sentinel policy code
-- AI validates it against your existing rule set
-- Auto-deployed via GitOps — zero human YAML writing
+### 📝 AI-Native Policy Engineering
+**What I build:** You describe your security requirement in plain English. My pipeline:
+1. LLM drafts the OPA/Rego or Sentinel policy
+2. AI validates it against your existing ruleset
+3. GitOps auto-deploys it — no manual YAML ever
+
+**Stack:** `OPA` · `Conftest` · `LangChain` · `ArgoCD` · `GPT-4o`
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## ▸ `ls -la skills/`
+## 🛠️ Tech Stack — Curated, Not Dumped
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+### Cloud & IaC
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,terraform,ansible&theme=dark)](https://skillicons.dev)
 
-### 🔐 Security Arsenal
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00AEF3?style=for-the-badge&logo=falco&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-3B82F6?style=for-the-badge&logo=semgrep&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-4CAF50?style=for-the-badge&logo=bridgecrew&logoColor=white)
+### Containers & Orchestration
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,helm,linux&theme=dark)](https://skillicons.dev)
 
-### 🐳 Containers & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+### Security & Observability
+[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch&theme=dark)](https://skillicons.dev)
 
-### ⚙️ CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+### CI/CD & GitOps
+[![My Skills](https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,git&theme=dark)](https://skillicons.dev)
 
-### 🤖 AI / ML Stack
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=64ffda)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-025E8C?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+### AI & Dev Languages
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,vscode&theme=dark)](https://skillicons.dev)
 
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+</div>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+<div align="center">
+
+**Security Tools I Live In:**
+
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00AEF3?style=flat-square&logo=falco&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-4CAF50?style=flat-square&logo=bridgecrew&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-3B82F6?style=flat-square&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA_Gatekeeper-7B42BC?style=flat-square&logo=openpolicyagent&logoColor=white)
+![Cosign](https://img.shields.io/badge/Cosign-0F6FDE?style=flat-square&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=a78bfa)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## ▸ `git log --oneline projects/`
+## 📂 Signature Projects
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🔐
-**[azure-terraform-infra](https://github.com/Billy-devops/azure-terraform-infra)**
+**🔐 [azure-terraform-infra](https://github.com/Billy-devops/azure-terraform-infra)**
 
-Zero-trust Azure infrastructure with security scanning baked into every `terraform plan`
+Zero-trust Azure infrastructure — security scanning on every `terraform plan`, secrets in Key Vault, and zero hardcoded credentials.
 
-`Terraform` · `Azure` · `Checkov` · `Key Vault`
-
-</td>
-<td align="center" width="25%">
-
-### ☸️
-**[Production-AKS-Infra](https://github.com/Billy-devops/Production-ready-Infra-with-AKS)**
-
-Hardened AKS with OPA Gatekeeper, Pod Security Standards & full GitOps
-
-`AKS` · `Helm` · `ArgoCD` · `OPA`
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Checkov](https://img.shields.io/badge/-Checkov-4CAF50?style=flat-square)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🔄
-**[Infra_Pipeline](https://github.com/Billy-devops/Infra_pipeline)**
+**☸️ [Production-AKS](https://github.com/Billy-devops/Production-ready-Infra-with-AKS)**
 
-Security-first CI/CD — SAST, IaC scan, and image signing at every gate
+Hardened Kubernetes — OPA Gatekeeper, Pod Security Standards, full GitOps via ArgoCD. CIS Benchmark compliant.
 
-`GitHub Actions` · `Trivy` · `Cosign` · `Semgrep`
+![AKS](https://img.shields.io/badge/-AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![OPA](https://img.shields.io/badge/-OPA-7B42BC?style=flat-square)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### 🐧
-**[Linux-Storage-Eng](https://github.com/Billy-devops/azure-linux-storage-engineering)**
+**🔄 [Infra Pipeline](https://github.com/Billy-devops/Infra_pipeline)**
 
-Enterprise-grade Linux storage automation on Azure with DR baked in
+Security-first CI/CD — SAST, container scanning, artifact signing, and compliance gates at every stage. Nothing untested ships.
 
-`Linux` · `LVM` · `Bash` · `Azure`
+![Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat-square)
+![Cosign](https://img.shields.io/badge/-Cosign-0F6FDE?style=flat-square)
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-## ▸ `cat metrics.out`
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Billy-devops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Shivam's+Commit+Footprint" width="48%"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Billy-devops&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=bf5af2&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Billy-devops&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy-devops&theme=2077" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Billy-devops&theme=tokyo-night&bg_color=0d1117&color=64ffda&line=64ffda&point=bf5af2&area=true&area_color=64ffda&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Billy-devops&theme=2077" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Billy-devops&theme=2077" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Billy-devops&theme=2077" width="32%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=Billy-devops&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=6d28d9&dates=6d28d9&stroke=7c3aed" width="60%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Billy-devops&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
 ---
 
-## ▸ `watch -n 1 snake_contributions`
+## 🐍 Contributions Come Alive
 
 <div align="center">
 
-<!-- Snake animation auto-generated by GitHub Actions every 12 hours -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake.svg" />
-  <img alt="🐍 Contribution Snake" src="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Billy-devops/Billy-devops/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## ▸ `cat devsecops_philosophy.txt`
+## 📜 My Manifesto
 
 <div align="center">
 
-```
- ╔═══════════════════════════════════════════════════════════════════════╗
- ║                                                                       ║
- ║   I believe in THREE things:                                          ║
- ║                                                                       ║
- ║   1. Security that slows developers down is security that gets        ║
- ║      bypassed. Automate it. Make it invisible.                        ║
- ║                                                                       ║
- ║   2. Your AI is only as smart as the context you give it.             ║
- ║      RAG + Agents + MCP = Security intelligence that never sleeps.    ║
- ║                                                                       ║
- ║   3. The best incident response is the one that happens               ║
- ║      before the incident.                                             ║
- ║                                                                       ║
- ╚═══════════════════════════════════════════════════════════════════════╝
-```
+> ### Security is not a checkpoint.
+> ### It's a culture — and I'm the one who builds it.
+
+*I believe the best security engineer is one whose work is invisible.*
+*No friction. No bottlenecks. Just pipelines that ship fast and stay safe.*
+
+*And with AI, we're entering an era where machines catch what humans miss.*
+*I'm not waiting for that era. I'm building it.*
 
 </div>
 
 ---
 
-## ▸ `curl -X GET shivam/certifications`
+## 🤝 Let's Build Something Impossible
 
 <div align="center">
 
-| | Certification | Issuer | Status |
-|:---:|:---|:---:|:---:|
-| ☁️ | Azure Administrator — AZ-104 | Microsoft | ✅ Certified |
-| 🔐 | Azure Security Engineer — AZ-500 | Microsoft | ✅ Certified |
-| 🏗️ | Terraform Associate | HashiCorp | ✅ Certified |
-| ⚙️ | DevOps Engineer Expert — AZ-400 | Microsoft | 🔄 In Progress |
-| ☸️ | Certified Kubernetes Administrator — CKA | CNCF | 🔄 In Progress |
-| 🔒 | Certified Kubernetes Security Specialist — CKS | CNCF | 🎯 Next Target |
-| 🛡️ | AWS Security Specialty | Amazon | 🎯 Roadmap |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-devops)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://unusual-sawfish-ig18a.ship.place/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shivam_._02)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-</div>
+<br/>
 
----
-
-## ▸ `ssh-keygen -t contact`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/billy-devops">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&label=Let%27s+Connect" />
-</a>
-&nbsp;
-<a href="https://unusual-sawfish-ig18a.ship.place/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit+My+World-64ffda?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/shivam_._02">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire+Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-> **Available for:** Senior DevSecOps · Cloud Security Architecture · AI+Security Consulting · Platform Engineering
->
-> 📬 LinkedIn DMs are open. Response within 24h. Serious opportunities only.
+**I'm available for:** `Senior DevSecOps` · `Platform Security Engineering` · `Cloud Security Architecture` · `AI+Security Consulting`
 
 </div>
 
@@ -365,8 +284,8 @@ Enterprise-grade Linux storage automation on Azure with DR baked in
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=100&section=footer&text=Built+with+%E2%9D%A4%EF%B8%8F+and+too+much+caffeine&fontSize=14&fontColor=8892b0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:0d0d1a&height=120&section=footer&text=Thanks+for+visiting+·+Go+star+something+⭐&fontSize=16&fontColor=c4b5fd&animation=fadeIn" width="100%"/>
 
-*"The best security engineer is the one companies don't know they need — until the breach that never happened."*
+*"The best time to secure your pipeline was yesterday. The second best time is to hire me."*
 
 </div>
