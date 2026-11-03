@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=🔐+3+Years.+0+Breaches+on+my+watch.+That%27s+not+luck.;🤖+My+AI+agents+hunt+vulnerabilities+while+you+sleep.;☁️+I%27m+the+reason+your+cloud+doesn%27t+have+a+breach+story.;⚡+If+it%27s+not+scanned+and+signed+—+it+doesn%27t+ship.;🧠+RAG+·+LLM+Agents+·+MCP+·+I+speak+AI+fluently.;🛡️+Zero+Trust+Architecture+·+Built+from+scratch%2C+not+bolted+on.;🚀+I+don%27t+slow+down+pipelines.+I+make+them+bulletproof." alt="Typing SVG" /></a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=820&lines=3%2B+Years.+0+Breaches.+That+is+called+skill.;My+AI+agents+hunt+threats+while+you+sleep.;The+cloud+is+secure.+You+are+welcome.;Not+scanned+%2B+signed%3F+It+does+NOT+ship.;RAG+%7C+LLM+Agents+%7C+MCP+%7C+I+build+them+all.;Zero+Trust+Architecture+-+built+in%2C+not+bolted+on.;I+make+pipelines+bulletproof.+Not+slower.)
 
 <br/><br/>
 
