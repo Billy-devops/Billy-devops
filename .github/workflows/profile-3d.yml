@@ -18,11 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Profile Summary Cards
-        uses: maxam2017/profile-summary-cards@v1
+      - uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Push to repository
@@ -30,5 +28,5 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add -A
-          git commit -m "🌐 Auto-update profile summary cards" || echo "No changes to commit"
+          git commit -m "🌐 Auto-update 3D contribution graph" || echo "No changes to commit"
           git push origin main
